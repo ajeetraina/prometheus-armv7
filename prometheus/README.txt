@@ -1,8 +1,8 @@
 
 How to build this Image
-======================
+<pre>
 
-```sh
+
 
 pi@raspberrypi:~/ajeetraina-promo/prometheus $ sudo docker build -t ajeetraina/prometheus-armh7 .
 Sending build context to Docker daemon 38.24 MB
@@ -56,3 +56,5 @@ Step 14 : CMD -config.file=/etc/prometheus/prometheus.yml -storage.local.path=/p
 Removing intermediate container 8cfcc9d3216c
 Successfully built a2193c756fd5
 pi@raspberrypi:~/ajeetraina-promo/prometheus $
+
+</pre>
