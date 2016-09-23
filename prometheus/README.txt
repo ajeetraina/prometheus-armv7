@@ -1,6 +1,6 @@
 
-How to build this Image
-<pre>
+**How to build this Image**
+
 
 
 
@@ -57,4 +57,4 @@ Removing intermediate container 8cfcc9d3216c
 Successfully built a2193c756fd5
 pi@raspberrypi:~/ajeetraina-promo/prometheus $
 
-</pre>
+
