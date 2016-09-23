@@ -1,7 +1,5 @@
 
-**How to build this Image**
-
-
+How to build this Image
 
 
 pi@raspberrypi:~/ajeetraina-promo/prometheus $ sudo docker build -t ajeetraina/prometheus-armh7 .
