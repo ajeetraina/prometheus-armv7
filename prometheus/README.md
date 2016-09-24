@@ -33,3 +33,11 @@ $ docker build -t prometheus-armv7 .
 $ docker run -d --net=host -v `pwd`/prometheus.yml:/etc/prometheus/prometheus.yml prometheus-armv7
 ```
 
+Changelog
+---------------
+
+* Removed golden binaries
+* Added curl to fetch prometheus
+* Fixed README file instructions
+
+[Alex Ellis](https://twitter.com/alexellisuk/)
