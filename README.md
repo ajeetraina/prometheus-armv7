@@ -29,5 +29,5 @@ How to run this Docker Image?
 ----------------------------------------
 
 ```sh
-$ sudo docker run -d --net=host -v /prometheus.yml:/etc/prometheus/prometheus.yml  ajeetraina/prometheus-armh7
+$ sudo docker run -d --net=host -v /prometheus.yml:/etc/prometheus/prometheus.yml  ajeetraina/prometheus-armv7
 ```
